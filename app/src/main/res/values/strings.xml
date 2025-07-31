@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BMI Calculator</string>
+    <string name="app_name">Body Gauge</string>
     <string name="bmi_logo">BMI Logo</string>
     <string name="calculate_bmi">Calculate BMI</string>
     <string name="cm">cm</string>
