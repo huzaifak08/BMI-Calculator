@@ -7,6 +7,8 @@
     <string name="weight">Weight</string>
     <string name="kg">kg</string>
     <string name="body_mass_index">Body Mass Index</string>
-    <string name="bmi_calculator">BMI Calculator</string>
     <string name="background_body_builder_image">Background Body builder image</string>
+    <string name="body_gauge">Body Gauge</string>
+    <string name="result">RESULT</string>
+    <string name="app_logo_splash">app logo splash</string>
 </resources>

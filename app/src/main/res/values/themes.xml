@@ -7,5 +7,7 @@
          <item name="android:statusBarColor">@color/navy</item>
     </style>
 
-    <style name="Theme.BMICalculator" parent="Base.Theme.BMICalculator" />
+    <style name="Theme.BMICalculator" parent="Base.Theme.BMICalculator" >
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
 </resources>
